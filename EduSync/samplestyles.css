@@ -1,0 +1,411 @@
+body{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.container{
+    padding-bottom: 30px;
+}
+.edusynclogo{
+    width: auto;
+}
+.edulogo{
+    width: 150px;
+}
+.head-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.navbar{
+    margin-right: 7%;
+}
+.card-body{
+    background-color: #153E6A;
+    border-radius: 20px;
+    width: 350px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    color: white;
+}
+.card-body-testimony{
+    background-color: #153E6A;
+    border-radius: 20px;
+    width: 350px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    color: white;
+}
+div .codetag{
+    margin-left: 5%;
+    margin-top: 30px;
+}
+.card-txt{
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-top: 15px;
+    color: white;
+}
+.card-txt p{
+    color: white;
+}
+.card-texts{
+    color: white;
+}
+.testimony-txt{
+    margin-left: 5%;
+    padding-top: 30px;
+    color: white;
+}
+.navbar-nav{
+    font-size: 20px;
+    margin-left: 15%;
+}
+.list{
+    justify-content: space-between;
+    margin-left: 30px;
+    cursor: pointer;
+    font-weight: 550;
+    font-family: 22px;
+}
+.d-flex{
+    margin-left: 2%;
+}
+.sign-btn{
+    border: 1px solid #153E6A;
+    color: #153E6A;
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: white;
+    float: right;
+    margin-left: 20px;
+}
+.sign-btn:hover{
+    background-color: #153E6A;
+    color: white;
+} 
+.signin{
+    padding: 10px 20px;
+    border: 1px solid #153E6A;
+    background-color: #153E6A;
+    color: white;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signup{
+    padding: 10px 20px;
+    border: 1px solid #153E6A;
+    background-color: #153E6A;
+    color: white;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.h2text{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.ptext2{
+    color: rgb(129, 129, 129);
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.bar{
+    width: 30px;
+    display: none;
+}
+.getstarted{
+    padding: 10px 20px;
+    background-color: #153E6A;
+    color: white;
+    border: 1px solid #153E6A;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+.learnmore{
+    padding: 10px 20px;
+    background-color: white;
+    color: #153E6A;
+    border: 1px solid #153E6A;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 5%;
+}
+.eduphone{
+    display: flex;
+    justify-content: center;
+}
+.infospace{
+    padding-bottom: 200px;
+    background-color: #153E6A;
+    color: white;
+    margin-left: 0%;
+}
+.why{
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.why2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(129, 129, 129);
+    font-weight: bold;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.MoreWhy{
+    padding: 10px 20px;
+    background-color: white;
+    color: #153E6A;
+    border: 1px solid #153E6A;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-bottom: 30px;
+}
+.clock-img{
+    width: 55px;
+    border-radius: 50%;
+    border-width: 35px;
+}
+.laptop-img{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border-width: 35px;
+}
+.flexible{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.flexible2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.h2flexible{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: -10px;
+    text-align: center;
+}
+.pflexible{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.Program{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.AccessAny{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.Certificate{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+#about-us{
+    padding-bottom: 250px;
+    background-color: white;
+    margin-left: 0%;
+}
+#about-us h2{
+    color: black;
+    padding-top: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+}
+#about-us-p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(129, 129, 129);
+    font-weight: bold;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.MoreUs{
+    padding: 10px 20px;
+    background-color: #153E6A;
+    color: white;
+    border: 1px solid #153E6A;
+    border-radius: 20px;
+    margin-left: 2%;
+}
+.edupeople{
+    display: flex;
+    justify-content: center;
+}
+#h-2{
+    color: black;
+    padding-top: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.codetag{
+    width: 45px;
+    padding-top: 20px;
+    margin-right: 70%;
+}
+.testimony{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.img-testimony{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.testimony-p{
+    display: inline-block;
+}
+.testimony-contain{
+    color: white;
+    margin-left: 2%;
+}
+.testimony-contain p{
+    font-size: 22px;
+}
+
+.edufooter{
+    background-color: black;
+    color: white;
+}
+.edufooter p{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2%;
+}.socials{
+    width: 30px;
+    margin-left: 10px;
+}
+.socials1{
+    width: 20px;
+    margin-left: 2%;
+}
+.footerimg{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.foot-table{
+    color: white;
+    background-color: black;
+    margin-left: 2%;
+}
+.table-foot{
+    margin-top: 20px;
+    margin-right: 10%;
+}
+.search-btn{
+    float: left;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: #153E6A;
+    border: 1px solid #153E6A;
+}
+.form-input{
+    width: 30%;
+    margin-right: 5px;
+    text-indent: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.form-input:hover{
+    outline: #153E6A;
+    width: 60%;
+}
+#latest-info{
+    margin-left: 2%;
+}
+.hr-end{
+    width: 40px;
+    color: blue;
+    background-color: white;
+}
+.user-h3{
+    font-size: 20px;
+    margin-left: 2%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.edufooter h1{
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.edufooter hr{
+    width: 280px;
+    color: rgb(129, 129, 129);
+    margin: 0%;
+    margin-left: 2%;
+}
+.edufooter h4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2%;
+}
+/* @media (min-width: 250px) and (max-width:360px){
+    .head-list{
+        display: none;
+    }
+    .signin{
+        display: none;
+    }
+    .signup{
+        display: none;
+    }
+    .bar{
+        display: flex;
+    }
+    .codingblock{
+        margin-left: 2%;
+        margin-right: auto;
+    }
+    .designblock{
+        margin-left: 2%;
+        margin-right: auto;
+    }
+    .creativeblock{
+        margin-left: 2%;
+        margin-right: auto;
+    }
+} */
